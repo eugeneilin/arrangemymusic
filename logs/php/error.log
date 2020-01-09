@@ -1,0 +1,54 @@
+[30-Dec-2019 16:03:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php on line 162
+[30-Dec-2019 16:03:24 UTC] PHP Stack trace:
+[30-Dec-2019 16:03:24 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:0
+[30-Dec-2019 16:03:24 UTC] PHP   2. do_action_ref_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:138
+[30-Dec-2019 16:03:24 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:544
+[30-Dec-2019 16:03:24 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[30-Dec-2019 16:03:24 UTC] PHP   5. wp_version_check() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[30-Dec-2019 16:03:24 UTC] PHP   6. trigger_error() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php:162
+[30-Dec-2019 16:03:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php on line 388
+[30-Dec-2019 16:03:24 UTC] PHP Stack trace:
+[30-Dec-2019 16:03:24 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:0
+[30-Dec-2019 16:03:24 UTC] PHP   2. do_action_ref_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:138
+[30-Dec-2019 16:03:24 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:544
+[30-Dec-2019 16:03:24 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[30-Dec-2019 16:03:24 UTC] PHP   5. wp_update_plugins() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[30-Dec-2019 16:03:24 UTC] PHP   6. trigger_error() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php:388
+[30-Dec-2019 16:03:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php on line 577
+[30-Dec-2019 16:03:24 UTC] PHP Stack trace:
+[30-Dec-2019 16:03:24 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:0
+[30-Dec-2019 16:03:24 UTC] PHP   2. do_action_ref_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:138
+[30-Dec-2019 16:03:24 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:544
+[30-Dec-2019 16:03:24 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[30-Dec-2019 16:03:24 UTC] PHP   5. wp_update_themes() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[30-Dec-2019 16:03:24 UTC] PHP   6. trigger_error() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php:577
+[05-Jan-2020 19:32:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php on line 162
+[05-Jan-2020 19:32:41 UTC] PHP Stack trace:
+[05-Jan-2020 19:32:41 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:0
+[05-Jan-2020 19:32:41 UTC] PHP   2. do_action_ref_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:138
+[05-Jan-2020 19:32:41 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:544
+[05-Jan-2020 19:32:41 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[05-Jan-2020 19:32:41 UTC] PHP   5. wp_version_check() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[05-Jan-2020 19:32:41 UTC] PHP   6. trigger_error() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php:162
+[05-Jan-2020 19:32:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php on line 388
+[05-Jan-2020 19:32:41 UTC] PHP Stack trace:
+[05-Jan-2020 19:32:41 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:0
+[05-Jan-2020 19:32:41 UTC] PHP   2. do_action_ref_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:138
+[05-Jan-2020 19:32:41 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:544
+[05-Jan-2020 19:32:41 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[05-Jan-2020 19:32:41 UTC] PHP   5. wp_update_plugins() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[05-Jan-2020 19:32:41 UTC] PHP   6. trigger_error() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php:388
+[05-Jan-2020 19:32:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php on line 577
+[05-Jan-2020 19:32:41 UTC] PHP Stack trace:
+[05-Jan-2020 19:32:41 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:0
+[05-Jan-2020 19:32:41 UTC] PHP   2. do_action_ref_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-cron.php:138
+[05-Jan-2020 19:32:41 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:544
+[05-Jan-2020 19:32:41 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[05-Jan-2020 19:32:41 UTC] PHP   5. wp_update_themes() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[05-Jan-2020 19:32:41 UTC] PHP   6. trigger_error() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/update.php:577
+[09-Jan-2020 03:24:39 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'CCSM_Customizer' does not have a method 'settings_page' in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php on line 288
+[09-Jan-2020 03:24:39 UTC] PHP Stack trace:
+[09-Jan-2020 03:24:39 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/admin.php:0
+[09-Jan-2020 03:24:39 UTC] PHP   2. do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/admin.php:254
+[09-Jan-2020 03:24:39 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:478
+[09-Jan-2020 03:24:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
