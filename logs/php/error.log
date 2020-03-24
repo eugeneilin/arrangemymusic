@@ -52,3 +52,43 @@
 [09-Jan-2020 03:24:39 UTC] PHP   2. do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/admin.php:254
 [09-Jan-2020 03:24:39 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:478
 [09-Jan-2020 03:24:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[09-Jan-2020 16:48:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-content/themes/main-theme/index.php on line 5
+[09-Jan-2020 18:05:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-content/themes/online-portfolio/inc/ample-themes/widgets/gallery-widgets.php on line 230
+[09-Jan-2020 18:05:59 UTC] PHP Stack trace:
+[09-Jan-2020 18:05:59 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/customize.php:0
+[09-Jan-2020 18:05:59 UTC] PHP   2. do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/customize.php:123
+[09-Jan-2020 18:05:59 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:478
+[09-Jan-2020 18:05:59 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[09-Jan-2020 18:05:59 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[09-Jan-2020 18:05:59 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:690
+[09-Jan-2020 18:05:59 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:1001
+[09-Jan-2020 18:05:59 UTC] PHP   8. wp_widget_control() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:1053
+[09-Jan-2020 18:05:59 UTC] PHP   9. Online_Portfolio_Our_Work_Widget->form_callback() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/includes/widgets.php:276
+[09-Jan-2020 18:05:59 UTC] PHP  10. Online_Portfolio_Our_Work_Widget->form() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-widget.php:518
+[09-Jan-2020 18:05:59 UTC] PHP  11. in_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-content/themes/online-portfolio/inc/ample-themes/widgets/gallery-widgets.php:230
+[09-Jan-2020 18:06:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-content/themes/online-portfolio/inc/ample-themes/widgets/gallery-widgets.php on line 230
+[09-Jan-2020 18:06:28 UTC] PHP Stack trace:
+[09-Jan-2020 18:06:28 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/customize.php:0
+[09-Jan-2020 18:06:28 UTC] PHP   2. do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/customize.php:123
+[09-Jan-2020 18:06:28 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:478
+[09-Jan-2020 18:06:28 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[09-Jan-2020 18:06:28 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[09-Jan-2020 18:06:28 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:690
+[09-Jan-2020 18:06:28 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:1001
+[09-Jan-2020 18:06:28 UTC] PHP   8. wp_widget_control() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:1053
+[09-Jan-2020 18:06:28 UTC] PHP   9. Online_Portfolio_Our_Work_Widget->form_callback() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/includes/widgets.php:276
+[09-Jan-2020 18:06:28 UTC] PHP  10. Online_Portfolio_Our_Work_Widget->form() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-widget.php:518
+[09-Jan-2020 18:06:28 UTC] PHP  11. in_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-content/themes/online-portfolio/inc/ample-themes/widgets/gallery-widgets.php:230
+[09-Jan-2020 18:07:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Users/eugene/Local Sites/arrangemymusic/app/public/wp-content/themes/online-portfolio/inc/ample-themes/widgets/gallery-widgets.php on line 230
+[09-Jan-2020 18:07:41 UTC] PHP Stack trace:
+[09-Jan-2020 18:07:41 UTC] PHP   1. {main}() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/customize.php:0
+[09-Jan-2020 18:07:41 UTC] PHP   2. do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/customize.php:123
+[09-Jan-2020 18:07:41 UTC] PHP   3. WP_Hook->do_action() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/plugin.php:478
+[09-Jan-2020 18:07:41 UTC] PHP   4. WP_Hook->apply_filters() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:312
+[09-Jan-2020 18:07:41 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-hook.php:288
+[09-Jan-2020 18:07:41 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:690
+[09-Jan-2020 18:07:41 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:1001
+[09-Jan-2020 18:07:41 UTC] PHP   8. wp_widget_control() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-customize-widgets.php:1053
+[09-Jan-2020 18:07:41 UTC] PHP   9. Online_Portfolio_Our_Work_Widget->form_callback() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-admin/includes/widgets.php:276
+[09-Jan-2020 18:07:41 UTC] PHP  10. Online_Portfolio_Our_Work_Widget->form() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-includes/class-wp-widget.php:518
+[09-Jan-2020 18:07:41 UTC] PHP  11. in_array() /Users/eugene/Local Sites/arrangemymusic/app/public/wp-content/themes/online-portfolio/inc/ample-themes/widgets/gallery-widgets.php:230
